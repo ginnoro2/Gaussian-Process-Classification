@@ -59,9 +59,9 @@ python Part_D_LIDAR_Analysis/lidar_analysis.py
 ## Datasets Used
 
 - Boston Housing Dataset
-- Student Performance Dataset
+- Synthetic Student Performance Dataset
 - Synthetic datasets for GPR
-- LIDAR dataset (221 observations)
+- Synthetic random LIDAR dataset (221 observations)
 
 ## Key Visualizations
 
